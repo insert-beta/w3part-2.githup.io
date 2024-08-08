@@ -1,0 +1,217 @@
+/* *{
+    padding: 0px;
+    margin: 0px;
+} */
+#navbar{
+    max-width: 100%;
+    height: auto;
+}
+#naving img{
+    width: 7%;
+        height: 70px;
+        display: inline-block;
+        
+    
+    
+    }
+    #nav2{
+        display: inline-block;
+        height: 60px;
+        width: -30px;
+        position: absolute;
+        top: -5px;
+        margin-top: 5px;
+        font-size: 25px;
+
+        
+    }
+    li{
+        display: inline-block;
+        height: 60px;
+        padding: 15px;
+        margin: -9px;
+    }
+    .aa1{
+        display: inline-block;
+        height: 60px;
+        padding:-5px  ;
+        padding-right: 20px ;
+        
+    }
+    ul{
+        display: inline-block;
+        padding-left: 70px;
+    }
+    .aa1:hover{
+        color: azure;
+        background-color: black;
+        width: 80px;
+        height: 20px;
+
+    }
+    #aa2{
+        width: 100px;
+        height: 40px;
+        border-radius: 12px 13px 15px 17px;
+        padding: 5px;
+        margin-left: 6px;
+        background-color:white;
+        color: black;
+    }
+    #aa3{
+        width: 100px;
+        height: 40px;
+        border-radius: 12px 13px 15px 17px;
+        color: black;
+        background-color: white;;
+
+    }
+    #aa2:hover{
+        background-color: red;
+        color: azure;
+        
+    }
+    #aa3:hover{
+        background-color: blue;
+        color: azure;
+    }
+    input{
+        border-radius: 2px 3px 2px 3px;
+    }
+    
+    #aa5{
+        position: fixed;
+
+        width:25vh ;
+        height: 90%;
+        overflow-y:scroll ;
+        border: 2px black solid;
+        margin-bottom: 25%;
+        text-align: center;
+    }
+    #aa5 > div{
+        width: 100%;
+        font-size: 25px;
+        border:2px solid black ;
+    }
+    #aa5 > div:hover{
+        background-color: black;
+        color: white;
+    }
+    input{
+        border-radius: 7px 9px 7px 9px ;
+        width: 35vh;
+        height: 30px;
+        text-align: center;
+        
+    }
+    input:hover{
+        background-color: black;
+        color:white ;
+        font-weight: 270;
+    }
+   #aa7{
+    width: 9%;
+    height: 7vh;
+    padding: 19vh;
+    margin: -15% -25% -19% -12%;
+    position: fixed;
+    top: -6%;
+    display: inline-block;
+    border: 2px;
+    
+    
+   }
+   #aa8{
+    position: fixed;
+    right: 26vh;
+    width: 90vh;
+    height: 70%;
+   }
+   #aa9{
+    width: 110px;
+    height: 60px;
+    border-radius: 10px;
+    outline: none;
+    background-color: rgb(87, 182, 87);
+    color: white;
+    cursor: pointer;
+    border-color:white;
+    
+   }
+   #aa10{
+    position: relative;
+    left: 74%;
+    width: 110px;
+    height: 60px;
+    border-radius: 10px;
+    outline: none;
+    background-color: rgb(87, 182, 87);
+    color: white;
+    cursor: pointer;
+    border-color:white;
+    
+
+    
+   }
+   h1{
+    cursor: text;
+   }
+   #aa11{
+    border: 1px solid black;
+    width: 113vh;
+    height: 50%;
+   }
+   #aa12{
+    border: 1px solid black;
+    width: 113vh;
+    height: 46%;
+    padding: 25px;
+    background-color: #D9EEE1;
+
+   }
+   #aa13{
+    width: 250px;
+    height: 70px;
+    font-size: 19px;
+    border-radius: 10px;
+    outline: none;
+    background-color: rgb(87, 182, 87);
+    color: white;
+    cursor: pointer;
+    border-color:white;
+    
+    
+   }
+   footer{
+    background-color: black;
+    color: white;
+    border: 1px solid black;
+    width: 113vh;
+    height: 21%;
+   }
+   #submit{
+    position: relative;
+    left: 5%;
+    width: 115px;
+    height: 50px;
+    border-radius: 10px;
+    outline: none;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    cursor: pointer;
+    border-color: white;
+
+   }
+   #aa9:hover{
+    background-color: black;
+    color: white;
+   }
+   #aa10:hover{ 
+    background-color: black;
+    color: white;
+   }
+   #aa13:hover{
+    background-color: black;
+    color: white;
+   }
